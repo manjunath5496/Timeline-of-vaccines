@@ -47,3 +47,166 @@
 <li><strong>2019:</strong>&nbsp;First&nbsp;<a href="https://en.wikipedia.org/wiki/Ebola_vaccine" target="_blank" rel="nofollow noopener">vaccine</a>&nbsp;for&nbsp;<a href="https://en.wikipedia.org/wiki/Ebola" target="_blank" rel="nofollow noopener">ebola</a>&nbsp;approved in U.S.</li>
 </ul>
 </br>
+<h2>Books </h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(1).pdf" style="text-decoration:none;">Kucers' the use of antibiotics: A clinical review of antibacterial, antifungal, antiparasitic, and antiviral drugs</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(2).pdf" style="text-decoration:none;">Antibiotics Containing the Beta-Lactam Structure: Part II</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(3).pdf" style="text-decoration:none;">Antibiotics: Volume I: Mechanism of Action </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(4).pdf" style="text-decoration:none;">Antibiotics in Laboratory Medicine</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(5).pdf" style="text-decoration:none;">Antibiotic and Chemotherapy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(6).pdf" style="text-decoration:none;">Antibiotic Discovery and Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(7).pdf" style="text-decoration:none;">Antibiotic Drug Discovery: New Targets and Molecular Entities</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(8).pdf" style="text-decoration:none;"> How to Overcome the Antibiotic Crisis: Facts, Challenges, Technologies and Future Perspectives </a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(9).pdf" style="text-decoration:none;"> Antibiotics: Actions, Origins, Resistance</a></li>
+                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(10).pdf" style="text-decoration:none;">Anthracycline antibiotics in cancer therapy </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(12).pdf" style="text-decoration:none;">Antibiotic Resistance of Bacteria </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(11).pdf" style="text-decoration:none;">Aminoglycoside antibiotics: From Chemical Biology to Drug Discovery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(13).pdf" style="text-decoration:none;">Management of Antimicrobials in Infectious Diseases: Impact of Antibiotic Resistance</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(14).pdf" style="text-decoration:none;">Frequency of Environmental Antibiotic Resistance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(15).pdf" style="text-decoration:none;">Antibiotics: Methods and Protocols</a></li>
+
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(16).pdf" style="text-decoration:none;">Chemistry of Antibiotics and Related Drugs</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(17).pdf" style="text-decoration:none;">Antibiotic Therapy for Geriatric Patients</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(18).pdf" style="text-decoration:none;">Antibiotic and Antifungal Therapies in Dermatology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(19).pdf" style="text-decoration:none;">Clinical Microbiology Made Ridiculously Simple </a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(20).pdf" style="text-decoration:none;">Aminoglycoside antibiotics </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(21).pdf" style="text-decoration:none;">Applications of Mass Spectrometry in Microbiology: From Strain Characterization to Rapid Screening for Antibiotic Resistance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(22).pdf" style="text-decoration:none;">Antibiotic Policies: Controlling Hospital Acquired Infection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(23).pdf" style="text-decoration:none;">Antibiotic resistance among children in low-income countries - Investigating community antibiotic consumption</a></li>
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(24).pdf" style="text-decoration:none;">Antibiotics: An Integrated View</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(25).pdf" style="text-decoration:none;">Antibiotic Resistance: Bacteria, Viruses, Fungi, and other Pathogens, a Threat to World Health</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(26).pdf" style="text-decoration:none;">Synthesis of &beta;-lactam antibiotics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(27).pdf" style="text-decoration:none;">Antibiotic Pharmacodynamics</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(28).pdf" style="text-decoration:none;">The Effects of Garlic on the Susceptibility of MRSA to &beta;-lactam Antibiotics</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(29).pdf" style="text-decoration:none;">The biology of antibiotic resistance plasmids </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(30).pdf" style="text-decoration:none;">Antibiotics and Antibiotics: Resistance Genes in Soils Monitoring, Toxicity, Risk Assessment and Management</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(31).pdf" style="text-decoration:none;">Antibiotics and Urinary Tract Infections</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(32).pdf" style="text-decoration:none;">Engineering Synthetic Antibiotics in Non-Traditional Pathways to Counter Antibiotic Resistance</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(33).pdf" style="text-decoration:none;">Antibiotics in obstetrics and gynecology</a></li> 
+                   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(34).pdf" style="text-decoration:none;">Streptomyces in Nature and Medicine: The Antibiotic Makers </a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(35).pdf" style="text-decoration:none;">Antibiotic resistance in the gut microbiota</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(36).pdf" style="text-decoration:none;">Antimicrobials: New and Old Molecules in the Fight Against Multi-Resistant Bacteria</a></li> 
+  
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(37).pdf" style="text-decoration:none;">THE ANTIBIOTIC PARADOX: How Miracle Drugs Are Destroying the Miracle</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(38).pdf" style="text-decoration:none;">Antibiotics: Targets, Mechanisms and Resistance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(39).pdf" style="text-decoration:none;">Antibiotics and Antiseptics in Periodontal Therapy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(40).pdf" style="text-decoration:none;">Biochemistry Laboratory Manual For Undergraduates: An Inquiry-Based Approach</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(41).pdf" style="text-decoration:none;">Antibiotic resistance : causes and risk factors, mechanisms and alternatives</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(42).pdf" style="text-decoration:none;">The Antibiotic Era </a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(43).pdf" style="text-decoration:none;">Herbal Antibiotics: What BIG Pharma Doesn’t Want You to Know - How to Pick and Use the 45 Most Powerful Herbal Antibiotics for Overcoming Any Ailment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(44).pdf" style="text-decoration:none;">Antibiotic Pharmacokinetic/Pharmacodynamic Considerations in the Critically Ill  </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(45).pdf" style="text-decoration:none;">Nelson's Pediatric Antimicrobial Therapy</a></li>
+                            
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(46).pdf" style="text-decoration:none;">Improving Antibiotic Prescribing for Uncomplicated Acute Respiratory Tract Infections</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(47).pdf" style="text-decoration:none;">Battling Resistance to Antibiotics and Pesticides: An Economic Approach</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(48).pdf" style="text-decoration:none;">The Chopra Center herbal handbook: forty natural prescriptions for perfect health </a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(49).pdf" style="text-decoration:none;">Synthetic Biology of Antibiotic Production</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(50).pdf" style="text-decoration:none;">Biotechnology of Antibiotics and Other Bioactive Microbial Metabolites</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(51).pdf" style="text-decoration:none;">Chemical Analysis of Antibiotic Residues in Food </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(52).pdf" style="text-decoration:none;">Studies on resistance pattern to Beta-lactam antibiotics in Staphylococcus aureus and Escherichia coli isolated
+from milk of buffaloes with mastitis </a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(53).pdf" style="text-decoration:none;">Antibiotic resistant bacteria</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(54).pdf" style="text-decoration:none;">Antibiotics and Antibiotic Resistance </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(55).pdf" style="text-decoration:none;">Plant Intelligence and the Imaginal Realm: Beyond the Doors of Perception into the Dreaming of Earth </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(56).pdf" style="text-decoration:none;"> How To Survive In A World Without Antibiotics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(57).pdf" style="text-decoration:none;">Occurrence, Fate, and Mobility of Antibiotic Resistant Bacteria and Antibiotic Resistance Genes among Microbial Communities Exposed to Alternative Wastewater Treatment Systems  </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(58).pdf" style="text-decoration:none;">Quantitative Health Risk Analysis Methods: Modeling the Human Health Impacts of Antibiotics Used in Food Animals  </a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(59).pdf" style="text-decoration:none;">Antibiotic Basics for Clinicians: The ABCs of Choosing the Right Antibacterial Agent </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(60).pdf" style="text-decoration:none;">Biology of Antibiotics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(61).pdf" style="text-decoration:none;">Agricultural Uses of Antibiotics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(62).pdf" style="text-decoration:none;">Antibiotic Resistance: Understanding and Responding to an Emerging Crisis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(63).pdf" style="text-decoration:none;">Medical Bacteriology </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(64).pdf" style="text-decoration:none;">Pneumonia Before Antibiotics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(65).pdf" style="text-decoration:none;">Herbal Antibiotics: Beginners Guide to Using Herbal Medicine to Prevent, Treat and Heal Illness with Natural Antibiotics and Antivirals</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(66).pdf" style="text-decoration:none;"> Antibiotic Therapy </a></li>
+                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(67).pdf" style="text-decoration:none;">The Daschner Guide to In-Hospital Antibiotic Therapy </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(68).pdf" style="text-decoration:none;">Antibiotics - A Medical Dictionary, Bibliography, and Annotated Research Guide to Internet References</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(69).pdf" style="text-decoration:none;">Antibiotics Simplified</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(70).pdf" style="text-decoration:none;">ENZYBIOTICS: Antibiotic Enzymes as Drugs and Therapeutics</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(71).pdf" style="text-decoration:none;">The Use of Probiotics to Prevent Antibiotic Associated Diarrhea: Current Primary Care Practice and Introduction of an Evidence Based Practice Protocol</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(72).pdf" style="text-decoration:none;">Combating antibiotic resistance: Report to the president and national strategy</a></li>
+
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(73).pdf" style="text-decoration:none;">Evaluation of Antibiotic Resistance Emerging from use of Antibiotics in CAFOs</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(74).pdf" style="text-decoration:none;">Peptide Antibiotics</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(75).pdf" style="text-decoration:none;">Antibiotics: The Perfect Storm</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(76).pdf" style="text-decoration:none;">When the Body Says No - The Cost of Hidden Stress</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(77).pdf" style="text-decoration:none;">The use of antibiotics in food-producing animals: antibiotic-resistant bacteria in animals and humans</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(78).pdf" style="text-decoration:none;">Natural Alternatives to Antibiotics </a></li>
+
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(79).pdf" style="text-decoration:none;">Missing Microbes: How the Overuse of Antibiotics Is Fueling Our Modern Plagues </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(80).pdf" style="text-decoration:none;">Antibiotic Guidelines: 2015-2016 </a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(81).pdf" style="text-decoration:none;">Natural Antibiotics: 15 of the Most Powerful Natural Antibiotics That Kills All Infections </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(82).pdf" style="text-decoration:none;">Natural Antibiotics and Antivirals: The Ultimate Guide to Natural Antibiotics - Homemade Herbal Remedies That Kill Pathogens and Cure Bacterial Infections and Allergies. Prevent Illness, Cold and Flu </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(83).pdf" style="text-decoration:none;">Heterocyclic Antitumor Antibiotics  </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(84).pdf" style="text-decoration:none;">Antibiotic Resistance: Implications for Global Health and Novel Intervention Strategies </a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(85).pdf" style="text-decoration:none;"> Antibiotics: Challenges, Mechanisms, Opportunities </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(86).pdf" style="text-decoration:none;">Macrolide Antibiotics </a></li>
+
+
+
+</ul>
