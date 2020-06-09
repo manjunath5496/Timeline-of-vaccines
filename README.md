@@ -98,7 +98,7 @@ Coagulation Proteins, Vaccines, Botulinum Toxins</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(25).pdf" style="text-decoration:none;">Vaccines for Invasive Fungal Infections: Methods and Protocols</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(26).pdf" style="text-decoration:none;">Malaria Vaccines: Methods and Protocols</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(27).pdf" style="text-decoration:none;">Antibiotic Pharmacodynamics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(27).pdf" style="text-decoration:none;">The Clinician's Vaccine Safety Resource Guide</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(28).pdf" style="text-decoration:none;">The Vaccine-Friendly Plan</a></li>
