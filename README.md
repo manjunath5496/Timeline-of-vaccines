@@ -241,12 +241,41 @@ Coagulation Proteins, Vaccines, Botulinum Toxins</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(100).pdf" style="text-decoration:none;"> THE VACCINE DEBATE</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(101).pdf" style="text-decoration:none;">Statistics in Clinical Vaccine Trials</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(102).pdf" style="text-decoration:none;">101 Tips for the Parents of Boys with Autism: The Most Crucial Things You Need to Know About Diagnosis, Doctors, Schools, Taxes, Vaccinations, Babysitters, Treatment, Food, Self-Care, and Mor </a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(103).pdf" style="text-decoration:none;">Vaccine Nation: America's Changing Relationship with Immunization </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(104).pdf" style="text-decoration:none;"> Vaccine-nation: Poisoning the Population, One Shot at a Time</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(105).pdf" style="text-decoration:none;">Vaccine Anxieties</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(106).pdf" style="text-decoration:none;">Battling Malaria: Strengthening the U.S. Military Malaria Vaccine Program</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(107).pdf" style="text-decoration:none;"> The Cutter Incident: How America's First Polio Vaccine Led to a Growing Vaccine Crisis</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(108).pdf" style="text-decoration:none;">An Assessment of the CDC Anthrax Vaccine Safety and Efficacy Research Program</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(109).pdf" style="text-decoration:none;">Vaccination Hazards</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(110).pdf" style="text-decoration:none;">Battling Malaria: Strengthening the U.S. Military Malaria Vaccine Program</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(111).pdf" style="text-decoration:none;">Vaccines: What You Should Know</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(112).pdf" style="text-decoration:none;">Top 300 Pharmacy Drug Cards—2016/2017</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(113).pdf" style="text-decoration:none;">Animal Cell Technology: From Vaccines to Genetic Medicine</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(114).pdf" style="text-decoration:none;">Development of Vaccines: From Discovery to Clinical Testing</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(115).pdf" style="text-decoration:none;">Carbohydrate-Based Vaccines</a></li>
 
 
 
