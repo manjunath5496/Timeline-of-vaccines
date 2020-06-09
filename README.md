@@ -226,7 +226,7 @@ Coagulation Proteins, Vaccines, Botulinum Toxins</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(94).pdf" style="text-decoration:none;">Adult Vaccinations: Changing the Immunization Paradigm</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(95).pdf" style="text-decoration:none;">THE MARK OF THE BEAST: Hidden in Plain Sight </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(95).pdf" style="text-decoration:none;">Parasitic Helminths: Targets, Screens, Drugs and Vaccines </a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(96).pdf" style="text-decoration:none;">Vaccines against Allergies</a></li>
