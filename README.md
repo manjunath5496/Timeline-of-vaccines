@@ -178,7 +178,7 @@ Coagulation Proteins, Vaccines, Botulinum Toxins</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(73).pdf" style="text-decoration:none;">Evaluation of Antibiotic Resistance Emerging from use of Antibiotics in CAFOs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(73).pdf" style="text-decoration:none;">Yellow fever vaccination: The potential of dose-sparing to increase vaccine supply and availability</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(74).pdf" style="text-decoration:none;">DNA Vaccines</a></li>   
   
