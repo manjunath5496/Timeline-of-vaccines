@@ -207,6 +207,52 @@ Coagulation Proteins, Vaccines, Botulinum Toxins</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(86).pdf" style="text-decoration:none;">Modelling Infectious Disease Epidemiology and Vaccination Impact </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(87).pdf" style="text-decoration:none;">The Panic Virus: A True Story of Medicine, Science, and Fear</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(88).pdf" style="text-decoration:none;">Vaccine Injuries: Documented Adverse Reactions to Vaccines </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(89).pdf" style="text-decoration:none;">The Vaccination Controversy: The Rise, Reign and Fall of Compulsory Vaccination for Smallpox </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(90).pdf" style="text-decoration:none;">VACCINATED: One Man's Quest to Defeat the World's Deadliest Diseases </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(91).pdf" style="text-decoration:none;">THE MARK OF THE BEAST: Hidden in Plain Sight </a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(92).pdf" style="text-decoration:none;">Vaccines: Are they Worth a Shot? </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(93).pdf" style="text-decoration:none;"> Immunization Safety Review: Vaccines and Autism </a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(94).pdf" style="text-decoration:none;">Adult Vaccinations: Changing the Immunization Paradigm</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(95).pdf" style="text-decoration:none;">THE MARK OF THE BEAST: Hidden in Plain Sight </a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(96).pdf" style="text-decoration:none;">Vaccines against Allergies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(97).pdf" style="text-decoration:none;"> Information About the Anthrax Vaccine and the Anthrax Vaccine Immunization Program (AVIP)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(98).pdf" style="text-decoration:none;">The Vaccine Court: The Dark Truth of America's Vaccine Injury Compensation Program</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(99).pdf" style="text-decoration:none;">The Ethics of Vaccination</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(100).pdf" style="text-decoration:none;"> THE VACCINE DEBATE</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
