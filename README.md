@@ -55,104 +55,104 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(1).pdf" style="text-decoration:none;">Kucers' the use of antibiotics: A clinical review of antibacterial, antifungal, antiparasitic, and antiviral drugs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(1).pdf" style="text-decoration:none;">Vaccines: A Biography</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(2).pdf" style="text-decoration:none;">Antibiotics Containing the Beta-Lactam Structure: Part II</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(2).pdf" style="text-decoration:none;">Three Shots at Prevention: The HPV Vaccine and the Politics of Medicine's Simple Solutions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(3).pdf" style="text-decoration:none;">Antibiotics: Volume I: Mechanism of Action </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(4).pdf" style="text-decoration:none;">Antibiotics in Laboratory Medicine</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(5).pdf" style="text-decoration:none;">Antibiotic and Chemotherapy</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(6).pdf" style="text-decoration:none;">Antibiotic Discovery and Development</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(7).pdf" style="text-decoration:none;">Antibiotic Drug Discovery: New Targets and Molecular Entities</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(3).pdf" style="text-decoration:none;">Vaccine Design: Methods and Protocols, Volume 2: Vaccines for Veterinary Diseases </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(4).pdf" style="text-decoration:none;">The Vaccine Book</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(5).pdf" style="text-decoration:none;">Design and Analysis of Vaccine Studies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(6).pdf" style="text-decoration:none;">New Generation vaccines</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(7).pdf" style="text-decoration:none;">Vaccine Design, Methods and Protocols: Volume 1: Vaccines for Human Diseases</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(8).pdf" style="text-decoration:none;"> How to Overcome the Antibiotic Crisis: Facts, Challenges, Technologies and Future Perspectives </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(8).pdf" style="text-decoration:none;"> Rickettsiales: Biology, Molecular Biology, Epidemiology, and Vaccine Development </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(9).pdf" style="text-decoration:none;"> Antibiotics: Actions, Origins, Resistance</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(9).pdf" style="text-decoration:none;">Dissolving Illusions: Disease, Vaccines, and the Forgotten History</a></li>
                               
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(10).pdf" style="text-decoration:none;">Anthracycline antibiotics in cancer therapy </a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(12).pdf" style="text-decoration:none;">Antibiotic Resistance of Bacteria </a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(11).pdf" style="text-decoration:none;">Aminoglycoside antibiotics: From Chemical Biology to Drug Discovery</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(13).pdf" style="text-decoration:none;">Management of Antimicrobials in Infectious Diseases: Impact of Antibiotic Resistance</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(10).pdf" style="text-decoration:none;">Franklin Pierce Law Center Educational Report: Patent Landscape of DNA Vaccines for HIV </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(12).pdf" style="text-decoration:none;">Novel Approaches and Strategies for Biologics, Vaccines and Cancer Therapies</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(11).pdf" style="text-decoration:none;">New Vaccine Development: Establishing Priorities: VOLUME II: Diseases of Importance in Developing Countries</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(13).pdf" style="text-decoration:none;">The Immortal Life of Henrietta Lacks</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(14).pdf" style="text-decoration:none;">Frequency of Environmental Antibiotic Resistance</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(15).pdf" style="text-decoration:none;">Antibiotics: Methods and Protocols</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(14).pdf" style="text-decoration:none;">Vaccine Analysis: Strategies, Principles, and Control</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(15).pdf" style="text-decoration:none;">Lyophilized Biologics and Vaccines</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(16).pdf" style="text-decoration:none;">Chemistry of Antibiotics and Related Drugs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(16).pdf" style="text-decoration:none;">DNA Vaccines: Methods and Protocols</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(17).pdf" style="text-decoration:none;">Antibiotic Therapy for Geriatric Patients</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(17).pdf" style="text-decoration:none;">Vaccines, Autoimmunity, and the Changing Nature of Childhood Illness</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(18).pdf" style="text-decoration:none;">Antibiotic and Antifungal Therapies in Dermatology</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(19).pdf" style="text-decoration:none;">Clinical Microbiology Made Ridiculously Simple </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(18).pdf" style="text-decoration:none;">Safety of Biologics Therapy: Monoclonal Antibodies, Cytokines, Fusion Proteins, Hormones, Enzymes,
+Coagulation Proteins, Vaccines, Botulinum Toxins</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(19).pdf" style="text-decoration:none;">Subunit Vaccine Delivery </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(20).pdf" style="text-decoration:none;">Aminoglycoside antibiotics </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(20).pdf" style="text-decoration:none;">Biologics to Treat Substance Use Disorders</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(21).pdf" style="text-decoration:none;">Applications of Mass Spectrometry in Microbiology: From Strain Characterization to Rapid Screening for Antibiotic Resistance</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(22).pdf" style="text-decoration:none;">Antibiotic Policies: Controlling Hospital Acquired Infection</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(23).pdf" style="text-decoration:none;">Antibiotic resistance among children in low-income countries - Investigating community antibiotic consumption</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(21).pdf" style="text-decoration:none;">Molecular Vaccines: From Prophylaxis to Therapy, Volume 1</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(22).pdf" style="text-decoration:none;">Hepatitis B: The Virus, the Disease, and the Vaccine</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(23).pdf" style="text-decoration:none;">Between Hope and Fear: A History of Vaccines and Human Immunity</a></li>
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(24).pdf" style="text-decoration:none;">Antibiotics: An Integrated View</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(24).pdf" style="text-decoration:none;">Ranking Vaccines: A Prioritization Software Tool: Phase II: Prototype of a Decision-Support System</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(25).pdf" style="text-decoration:none;">Antibiotic Resistance: Bacteria, Viruses, Fungi, and other Pathogens, a Threat to World Health</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(26).pdf" style="text-decoration:none;">Synthesis of &beta;-lactam antibiotics</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(25).pdf" style="text-decoration:none;">Vaccines for Invasive Fungal Infections: Methods and Protocols</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(26).pdf" style="text-decoration:none;">Malaria Vaccines: Methods and Protocols</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(27).pdf" style="text-decoration:none;">Antibiotic Pharmacodynamics</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(28).pdf" style="text-decoration:none;">The Effects of Garlic on the Susceptibility of MRSA to &beta;-lactam Antibiotics</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(28).pdf" style="text-decoration:none;">The Vaccine-Friendly Plan</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(29).pdf" style="text-decoration:none;">The biology of antibiotic resistance plasmids </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(29).pdf" style="text-decoration:none;">Cancer Vaccines: Methods and Protocols </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(30).pdf" style="text-decoration:none;">Antibiotics and Antibiotics: Resistance Genes in Soils Monitoring, Toxicity, Risk Assessment and Management</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(30).pdf" style="text-decoration:none;">Genetically Engineered Plants as a Source of Vaccines Against Wide Spread Diseases</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(31).pdf" style="text-decoration:none;">Antibiotics and Urinary Tract Infections</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(32).pdf" style="text-decoration:none;">Engineering Synthetic Antibiotics in Non-Traditional Pathways to Counter Antibiotic Resistance</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(33).pdf" style="text-decoration:none;">Antibiotics in obstetrics and gynecology</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(31).pdf" style="text-decoration:none;">Pediatric Vaccines and Vaccinations: A European Textbook</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(32).pdf" style="text-decoration:none;">Research and Development of Vaccines and Pharmaceuticals from Biotechnology</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(33).pdf" style="text-decoration:none;">Virus-like Particles in Vaccine Development</a></li> 
                    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(34).pdf" style="text-decoration:none;">Streptomyces in Nature and Medicine: The Antibiotic Makers </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(34).pdf" style="text-decoration:none;">Vaccine Free Prevention and Treatment of Infectious Contagious Disease With Homeopathy: A Manual for Practitioners and Consumers </a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(35).pdf" style="text-decoration:none;">Antibiotic resistance in the gut microbiota</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(36).pdf" style="text-decoration:none;">Antimicrobials: New and Old Molecules in the Fight Against Multi-Resistant Bacteria</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(35).pdf" style="text-decoration:none;">Antiviral Agents, Vaccines and Immunotherapies</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(36).pdf" style="text-decoration:none;">Tumor Immunology and Cancer Vaccines</a></li> 
   
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(37).pdf" style="text-decoration:none;">THE ANTIBIOTIC PARADOX: How Miracle Drugs Are Destroying the Miracle</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(38).pdf" style="text-decoration:none;">Antibiotics: Targets, Mechanisms and Resistance</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(39).pdf" style="text-decoration:none;">Antibiotics and Antiseptics in Periodontal Therapy</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(40).pdf" style="text-decoration:none;">Biochemistry Laboratory Manual For Undergraduates: An Inquiry-Based Approach</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(41).pdf" style="text-decoration:none;">Antibiotic resistance : causes and risk factors, mechanisms and alternatives</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(42).pdf" style="text-decoration:none;">The Antibiotic Era </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(37).pdf" style="text-decoration:none;">Vaccine Technologies for Veterinary Viral Diseases: Methods and Protocols</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(38).pdf" style="text-decoration:none;">A Primer for Undergraduate Research From Groups and Tiles to Frames and Vaccines</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(39).pdf" style="text-decoration:none;">The politics of vaccination</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(40).pdf" style="text-decoration:none;">Microneedles for Drug and Vaccine Delivery and Patient Monitoring</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(41).pdf" style="text-decoration:none;">Vaccines for Pandemic Influenza</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(42).pdf" style="text-decoration:none;">DNA Vaccination / Genetic Vaccination </a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(43).pdf" style="text-decoration:none;">Herbal Antibiotics: What BIG Pharma Doesn’t Want You to Know - How to Pick and Use the 45 Most Powerful Herbal Antibiotics for Overcoming Any Ailment</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(44).pdf" style="text-decoration:none;">Antibiotic Pharmacokinetic/Pharmacodynamic Considerations in the Critically Ill  </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(45).pdf" style="text-decoration:none;">Nelson's Pediatric Antimicrobial Therapy</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(43).pdf" style="text-decoration:none;">Adverse Effects of Vaccines: Evidence and Causality</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(44).pdf" style="text-decoration:none;">Novel Technologies for Vaccine Development  </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(45).pdf" style="text-decoration:none;">Recombinant Virus Vaccines: Methods and Protocols</a></li>
                             
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(46).pdf" style="text-decoration:none;">Improving Antibiotic Prescribing for Uncomplicated Acute Respiratory Tract Infections</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(46).pdf" style="text-decoration:none;">Introduction of Measles-Rubella Vaccine</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(47).pdf" style="text-decoration:none;">Battling Resistance to Antibiotics and Pesticides: An Economic Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(47).pdf" style="text-decoration:none;">HIV Vaccines and Cure: The Path Towards Finding an Effective Cure and Vaccine</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(48).pdf" style="text-decoration:none;">The Chopra Center herbal handbook: forty natural prescriptions for perfect health </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(48).pdf" style="text-decoration:none;">RNA Vaccines: Methods and Protocols </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(49).pdf" style="text-decoration:none;">Synthetic Biology of Antibiotic Production</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(50).pdf" style="text-decoration:none;">Biotechnology of Antibiotics and Other Bioactive Microbial Metabolites</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(49).pdf" style="text-decoration:none;">Prospects of Plant-Based Vaccines in Veterinary Medicine</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(50).pdf" style="text-decoration:none;">Vaccinophobia and Vaccine Controversies of the 21st Century</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(51).pdf" style="text-decoration:none;">Chemical Analysis of Antibiotic Residues in Food </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(51).pdf" style="text-decoration:none;">Computer-aided vaccine design </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(52).pdf" style="text-decoration:none;">Studies on resistance pattern to Beta-lactam antibiotics in Staphylococcus aureus and Escherichia coli isolated
-from milk of buffaloes with mastitis </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(52).pdf" style="text-decoration:none;">Pneumococcal Vaccines: The Impact of Conjugate Vaccine </a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(53).pdf" style="text-decoration:none;">Antibiotic resistant bacteria</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(53).pdf" style="text-decoration:none;">Immunization Cold Chain and Vaccine Logistics Network</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(54).pdf" style="text-decoration:none;">Antibiotics and Antibiotic Resistance </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(54).pdf" style="text-decoration:none;">History of Vaccine Development </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(55).pdf" style="text-decoration:none;">Plant Intelligence and the Imaginal Realm: Beyond the Doors of Perception into the Dreaming of Earth </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(55).pdf" style="text-decoration:none;">DNA Pharmaceuticals: Formulation and Delivery in Gene Therapy, DNA Vaccination and Immunotherapy </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(56).pdf" style="text-decoration:none;"> How To Survive In A World Without Antibiotics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(56).pdf" style="text-decoration:none;"> Veterinary vaccines</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(57).pdf" style="text-decoration:none;">Occurrence, Fate, and Mobility of Antibiotic Resistant Bacteria and Antibiotic Resistance Genes among Microbial Communities Exposed to Alternative Wastewater Treatment Systems  </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(57).pdf" style="text-decoration:none;">Safety of Vaccines Used for Routine Immunization in the United States  </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(58).pdf" style="text-decoration:none;">Quantitative Health Risk Analysis Methods: Modeling the Human Health Impacts of Antibiotics Used in Food Animals  </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(58).pdf" style="text-decoration:none;">Financing Vaccines in the 21st Century: Assuring Access and Availability </a></li>
 
 
 
