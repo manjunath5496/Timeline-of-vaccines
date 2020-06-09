@@ -263,7 +263,7 @@ Coagulation Proteins, Vaccines, Botulinum Toxins</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(109).pdf" style="text-decoration:none;">Vaccination Hazards</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(110).pdf" style="text-decoration:none;">Battling Malaria: Strengthening the U.S. Military Malaria Vaccine Program</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(110).pdf" style="text-decoration:none;">Measles and Poliomyelitis: Vaccines, Immunization, and Control</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-vaccines/blob/master/vacc(111).pdf" style="text-decoration:none;">Vaccines: What You Should Know</a></li>
 
